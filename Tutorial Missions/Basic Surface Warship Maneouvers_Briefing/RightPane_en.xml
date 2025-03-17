@@ -1,0 +1,5 @@
+<Viewbox Margin="33" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Canvas Width="2160" Height="1287">
+        <Image Source="{Binding Assets[Basic_Surface_Warship_Maneouvers]}"/>
+	</Canvas>
+</Viewbox>
