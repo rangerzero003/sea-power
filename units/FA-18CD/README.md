@@ -37,7 +37,7 @@ Weapons:
 
 ## Loadouts
 
-F/A-18C/D (Used this PDF for loadouts: )
+F/A-18C/D (Used this PDF for DCS for loadouts: https://github.com/rangerzero003/sea-power/blob/main/units/FA-18CD/Loadout%20%26%20Weapons%20FA18C_v2.pdf)
 - Default
 -- 2x AIM-9L
 -- 5x AIM-120C
